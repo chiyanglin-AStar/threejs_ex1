@@ -6,6 +6,4 @@ tasks:
 # CodingCoffee  C/C++ GitPod Examples more courses : http://www.codingcoffee.org
 ports:
   - port: 3000
-    onOpen: open-preview
-  - port: 4000
-    onOpen: open-preview
+    onOpen: open-preview  
